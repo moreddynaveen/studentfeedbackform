@@ -1,0 +1,16 @@
+body
+{
+background:pink;
+}
+h1{
+color:green;
+background:yellow;
+font-weight:bold;
+text-align:center;
+}
+h2{
+background:grey;
+color:white;
+font-weight:bold;
+font-family:arial;
+}
